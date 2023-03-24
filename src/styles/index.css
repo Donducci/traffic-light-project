@@ -10,3 +10,33 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficTop{
+    background-color: black;
+    margin: 0 auto;
+    width: 10px;
+    height: 80px;
+    }
+    .container{
+    background-color: black;
+    margin: 0 auto;
+    width: 120px;
+    height: auto;
+    padding:10px;
+    border-radius: 10px;
+    }
+    .light{
+    border-radius:50%;
+    width:100px;
+    height:100px;
+    background-color: black;
+    }
+    .red{
+    background-color: red;
+    }
+    .yellow{
+    background-color: yellow;
+    }
+    .green{
+    background-color: green;
+    }
+    
